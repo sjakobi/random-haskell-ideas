@@ -9,6 +9,8 @@ import qualified Data.List.NonEmpty as NonEmpty
 -}
 
 {-|
+FIXME: Find a better name: `onNonEmpty`?
+
 >>> totalize maximum []
 Nothing
 
